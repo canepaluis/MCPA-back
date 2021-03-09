@@ -1,2 +1,2 @@
-# MCPA-back
-Backend proyecto PEU, módulo MCPA
+# MCPA
+Proyecto colaborativo PEU, módulo MCPA
